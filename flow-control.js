@@ -27,5 +27,22 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
+  var age = ""
+switch(age) {
+  case 13:
+    console.log("Dance to Pharrell's 'Happy'");
+    break;
+  case "14":
+    console.log("You should eat a pint of ice cream");
+    break;
+  case "15":
+    console.log("Take some deep breaths");
+    break;
+  case "16":
+    console.log("You should eat a big chocolate cake");
+    break;
+  default:
+    console.log("That's not a mood we support");
+}
 
 }
