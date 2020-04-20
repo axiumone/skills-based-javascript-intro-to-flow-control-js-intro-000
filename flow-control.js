@@ -22,7 +22,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-  return(ternaryTeenager ? "You are not a teenager" : "You are a teenager")
+  return(ternaryTeenager ? "You are a teenager" : "You are a teenager")
 
 }
 
