@@ -31,7 +31,7 @@ switch(age) {
   case 13:
     console.log("You are a teenager");
     break;
-  case "14":
+  case "14"
     console.log("You should eat a pint of ice cream");
     break;
   case "15":
