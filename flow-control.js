@@ -30,7 +30,7 @@ function switchAge(age) {
   var age = ""
 switch(age) {
   case 13:
-    console.log("Dance to Pharrell's 'Happy'");
+    console.log("You are a teenager");
     break;
   case "14":
     console.log("You should eat a pint of ice cream");
