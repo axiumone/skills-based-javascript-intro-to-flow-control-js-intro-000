@@ -31,17 +31,17 @@ switch(age) {
   case 13:
     console.log("You are a teenager");
     break;
-  case "14"
-    console.log("You should eat a pint of ice cream");
+  case 14:
+    console.log("You are a teenager");
     break;
-  case "15":
-    console.log("Take some deep breaths");
+  case 15:
+    console.log("You are a teenager");
     break;
-  case "16":
-    console.log("You should eat a big chocolate cake");
+  case 16:
+    console.log("You are a teenager");
     break;
   default:
-    console.log("That's not a mood we support");
+    console.log("You have an age");
 }
 
 }
